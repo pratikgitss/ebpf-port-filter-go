@@ -1,4 +1,4 @@
-# eBPF packet-drop demos in Go eBPF packet-drop demos in Go
+# eBPF packet-drop demos in Go 
 
 Two small eBPF programs with Go loaders (using [cilium/ebpf](https://github.com/cilium/ebpf)):
 
