@@ -1,0 +1,3 @@
+bin/
+cmd/*/*_bpfel.go
+cmd/*/*_bpfel.o
